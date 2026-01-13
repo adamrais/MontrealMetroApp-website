@@ -4,7 +4,7 @@ Official website for the STM Metro App - a native iOS application for navigating
 
 ## About
 
-This repository hosts the GitHub Pages website for the [STM Metro App](https://github.com/adamrais/stmMetroApp).
+This repository hosts the GitHub Pages website for Info Metro, an iOS application for navigating Montreal's metro system. The app is [available on the App Store](https://apps.apple.com/ca/app/infometro/id6757133462?l=fr-CA).
 
 ## View Website
 
@@ -26,6 +26,6 @@ The STM Metro App provides:
 
 Built with Swift and SwiftUI for iOS.
 
-## License
+## Download
 
-See the [main app repository](https://github.com/adamrais/stmMetroApp) for license information.
+Download Info Metro on the [App Store](https://apps.apple.com/ca/app/infometro/id6757133462?l=fr-CA).
